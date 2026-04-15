@@ -1,8 +1,14 @@
-This is the first version and prototype of the chassis for my Spotify display project for the Hack Club event, Stasis. I'm currently working on it, and I just started yesterday. For the moment I only have the draft of the chassis and a TFT display 128*160 model asset that I downloaded from the following link:
+This is the second and maybe last version of the chassis for my Spotify display project for the Hack Club event, Stasis. I'm currently working on it, and I just started a few wweks ago. For the moment I have the mayority of the chassis with its back cover, a TFT display 128*160 model asset, a ESP32 Wemos C3 mini model asset, and some keyboards switches model asset. I have downloaded all the assets from the following links:
 
-"https://grabcad.com/library/tft-display-1-8-1"
+TFT Display: "https://grabcad.com/library/tft-display-1-8-1"
 
-With that said, I will keep working on it.
+ESP32 Wemos C3 mini: "https://grabcad.com/library/wemos-esp32-c3-mini-v1-0-0-1"
 
-Here is a picture of the model from the document:
-<img width="760" height="636" alt="image" src="https://github.com/user-attachments/assets/8751ecf6-93bc-46fc-b18a-b416dfc84572" />
+Keyboards Switches: "https://grabcad.com/library/outemu-mx-switch-1"
+
+With that said, I will keep working on the code becuse it is pretty ugly and basic.
+
+Here is a picture of the model from the file:
+![image](https://stasis.hackclub-assets.com/images/1776204407178-ixttie.png)
+
+![image](https://stasis.hackclub-assets.com/images/1776204413427-qzk7js.png)
