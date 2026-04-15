@@ -9,6 +9,7 @@ Keyboards Switches: "https://grabcad.com/library/outemu-mx-switch-1"
 With that said, I will keep working on the code becuse it is pretty ugly and basic.
 
 Here is a picture of the model from the file:
+
 ![image](https://stasis.hackclub-assets.com/images/1776204407178-ixttie.png)
 
 ![image](https://stasis.hackclub-assets.com/images/1776204413427-qzk7js.png)
