@@ -30,12 +30,12 @@ unsigned long LSU = 0;
 
 
 //internet
-char* SSID = "TENGOSISTE_AD3875_EXT";
-char* PASSWORD = "6BAD3875";
+char* SSID = "Your wifi name";
+char* PASSWORD = "password";
 
 //spotify
-const char* CLIENT_ID = "c24ad10793034d1fb68c54689d0aff58";
-const char* CLIENT_SECRET = "23ba0a29bb544fe68f1a96d2c155d792";
+const char* CLIENT_ID = "your ID";
+const char* CLIENT_SECRET = "your secret";
 
 Spotify sp(CLIENT_ID, CLIENT_SECRET);
 
