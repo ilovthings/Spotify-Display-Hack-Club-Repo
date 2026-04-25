@@ -34,7 +34,7 @@ ading BOM v1.csv…]()
 </p>
 
 <br>
-   
+
 <h2>Here are some assets that i used:</h2>
 <hr>
 
@@ -45,13 +45,11 @@ ESP32 Dev Board: "[https://grabcad.com/library/wemos-esp32-c3-mini-v1-0-0-1"](ht
 6x6 buttons: "[https://grabcad.com/library/outemu-mx-switch-1](https://grabcad.com/library/push-button-smt-for-pcb-12x12-mm-1)"
 
 <br>
-
 <h2>I hope the code is rigth:</h2>
 <hr>
 It is in the "Essentials" folder.
 
 <br>
-
 <h2>Here is a picture of the model from the file and the wiring diagram:</h2>
 <hr>
 [Wiring Diagram.pdf](https://github.com/user-attachments/files/27070551/Wiring.Diagram.pdf)
