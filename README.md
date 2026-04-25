@@ -1,3 +1,8 @@
+<img width="360" height="363" alt="74249482-b3a2-498f-9167-37c33aae166d_removalai_preview" src="https://github.com/user-attachments/assets/5a9456b8-0707-4983-a9c3-2d1734ca4b7d" />
+
+<h1>About this project</h1>
+<hr>
+
 This is the third and possibly last version of the digital plan and part of my Spotify display project for the Hack Club event, Stasis. I think that I have been working for at least 3 weeks; I never thought that the task was going to be that hard. For the moment I have added a lot of modifications from the last version of the chassis; I keep the TFT screen, I replace the ESP32 C3 with an ESP32 dev kit, I quit the key switch, and I have added buttons, and finally, more importantly, I have done the code.
 
 Here are some assets that i used:
