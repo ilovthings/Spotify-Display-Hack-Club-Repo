@@ -11,7 +11,7 @@
 
 <h2> What does this do? </h2>
 <hr>
-<p> As its name says, it is a display for my Spotify listening. I use an ESP32 dev board; this is so I can use the internet and Bluetooth. One of the main features is also the input buttons, which affect directly the state of my current Spotify playback. The main buttons are</p>
+<p> As its name says, it is a display for my Spotify listening. I use an ESP32 dev board; this is so I can use the internet and Bluetooth. One of the main features is also the input buttons, which affect directly the state of my current Spotify playback. The main buttons are:</p>
 
 -Pause / Play
 
@@ -49,14 +49,7 @@ ESP32 Dev Board: "[https://grabcad.com/library/wemos-esp32-c3-mini-v1-0-0-1"](ht
 
 6x6 buttons: "[https://grabcad.com/library/outemu-mx-switch-1](https://grabcad.com/library/push-button-smt-for-pcb-12x12-mm-1)"
 
-
-
 <br>
-<h2>I hope the code is rigth:</h2>
-<hr>
-It is in the "Essentials" folder.
-<br>
-
 
 <h2>Here is a picture of the model from the file and the wiring diagram:</h2>
 <hr>
