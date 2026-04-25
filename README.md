@@ -1,9 +1,13 @@
-[BOM v1.csv](https://github.com/user-attachments/files/27070534/BOM.v1.csv)<p align="center"><img width="360" height="363" alt="74249482-b3a2-498f-9167-37c33aae166d_removalai_preview" src="https://github.com/user-attachments/assets/5a9456b8-0707-4983-a9c3-2d1734ca4b7d" />
+<p align="center"><img width="360" height="363" alt="74249482-b3a2-498f-9167-37c33aae166d_removalai_preview" src="https://github.com/user-attachments/assets/5a9456b8-0707-4983-a9c3-2d1734ca4b7d" />
+
+
 
 <h1>About this project</h1>
 <hr>
 <p> This is a hardware project that I'm doing for a "Hack club" event, more specifically Stasis. The current iteration is the third and possibly last version of the digital plan and part of my Spotify display project. I think I have been working on this project for about 3 and a half weeks, jajaja.
 </p>
+
+
 
 <h2> What does this do? </h2>
 <hr>
@@ -12,6 +16,8 @@
 -Volume
 -Last Song
 -Next Song
+
+
 
 <h2>Bill Of Materials</h2>
 <hr>
@@ -26,6 +32,8 @@ Here is the BOM:
 "U2","1","CR2013-MI2120","","","","Display:CR2013-MI2120","http://pan.baidu.com/s/11Y990"
 ading BOM v1.csv…]()
 </p>
+
+
    
 <h2>Here are some assets that i used:</h2>
 <hr>
@@ -36,9 +44,13 @@ ESP32 Dev Board: "[https://grabcad.com/library/wemos-esp32-c3-mini-v1-0-0-1"](ht
 
 6x6 buttons: "[https://grabcad.com/library/outemu-mx-switch-1](https://grabcad.com/library/push-button-smt-for-pcb-12x12-mm-1)"
 
+
+
 <h2>I hope the code is rigth:</h2>
 <hr>
 It is in the "Essentials" folder.
+
+
 
 <h2>Here is a picture of the model from the file and the wiring diagram:</h2>
 <hr>
