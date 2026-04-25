@@ -12,9 +12,13 @@
 <h2> What does this do? </h2>
 <hr>
 <p> As its name says, it is a display for my Spotify listening. I use an ESP32 dev board; this is so I can use the internet and Bluetooth. One of the main features is also the input buttons, which affect directly the state of my current Spotify playback. The main buttons are</p>
+
 -Pause / Play
+
 -Volume
+
 -Last Song
+
 -Next Song
 
 <br>
@@ -25,6 +29,7 @@
 For this project I need some resources. As I mentioned before, I used an ESP32 dev board, three 6x6 push buttons, a TFT screen, and a potentiometer.
 
 Here is the BOM:
+<br>
 [Uplo"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
 "RV1","1","R_Potentiometer","","","","Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Horizontal","https://media.digikey.com/pdf/Data%20Sheets/Alps%20Alphine/Alps%20RK09%20Potentiometer.pdf"
 "SW1,SW2,SW3","3","SW_Push","","","","Button_Switch_THT:SW_PUSH_6mm_H4.3mm","https://www.hdk.co.jp/pdf/eng/e291702.pdf"
