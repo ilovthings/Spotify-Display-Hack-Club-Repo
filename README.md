@@ -48,7 +48,6 @@ ESP32 Dev Board: "[https://grabcad.com/library/wemos-esp32-c3-mini-v1-0-0-1"](ht
 <h2>I hope the code is rigth:</h2>
 <hr>
 It is in the "Essentials" folder.
-
 <br>
 <h2>Here is a picture of the model from the file and the wiring diagram:</h2>
 <hr>
