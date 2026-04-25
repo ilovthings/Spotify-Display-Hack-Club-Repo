@@ -30,7 +30,8 @@ For this project I need some resources. As I mentioned before, I used an ESP32 d
 
 Here is the BOM:
 <br>
-[Download Bill of Materials](Essentials (BOM, code, wiring diagram)/BOM v1.csv)
+[Download Bill of Materials](<Essential (BOM, code, wiring diagram)/BOM v1.csv>)
+
 </p>
 
 <br>
