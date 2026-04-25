@@ -52,7 +52,10 @@ ESP32 Dev Board: "[https://grabcad.com/library/wemos-esp32-c3-mini-v1-0-0-1"](ht
 Wiring Diagram.pdf:(https://github.com/user-attachments/files/27070551/Wiring.Diagram.pdf)
 
 <br>
-
+<br>
+<p>
+  
+</p>
 <h2>CAD Screenshots</h2>
 <hr>
 
