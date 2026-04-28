@@ -31,10 +31,11 @@ For this project I need some resources. As I mentioned before, I used an ESP32 d
 Here is the BOM:
 <br>
 
-| Columna 1 | Columna 2 | Columna 3 |
-| :--- | :---: | ---: |
-| Fila 1 | Dato A | Dato B |
-| Fila 2 | Dato C | Dato D |
+| Columna 1 | Columna 2 | Columna 3 | Columna 1 | Columna 2 | Columna 3 |
+| :--- | :---: | ---: | :--- | :---: | ---: |
+| Fila 1 | Dato A | Dato B | Fila 1 | Dato A | Dato B |
+| Fila 2 | Dato C | Dato D | Fila 2 | Dato C | Dato D |
+| Fila 2 | Dato C | Dato D | Fila 2 | Dato C | Dato D |
 
 
 </p>
