@@ -33,10 +33,10 @@ Here is the BOM:
 
 | Reference | Qty | Value | DNP | Exclude from BOM | Exclude from Board | Footprint | Datasheet |
 | :--- | :---: | ---: | :--- | :---: | ---: | :---: | ---: |
-| RV1 | 1 ||| Dato A | Dato B | Dato A | Dato B |
-| SW1,SW2,SW3 | 3 ||| Dato C | Dato D | Dato A | Dato B |
-| U1 | 1 ||| Dato C | Dato D | Dato A | Dato B |
-| U2 | 1 ||| Dato A | Dato B | Dato A | Dato B |
+| RV1 | 1 | R_Potentiometer ||| Dato B | Dato A | Dato B |
+| SW1,SW2,SW3 | 3 | SW_Push ||| Dato D | Dato A | Dato B |
+| U1 | 1 | ESP32-C3-DevKitM-1 ||| Dato D | Dato A | Dato B |
+| U2 | 1 | CR2013-MI2120 ||| Dato B | Dato A | Dato B |
 
 </p>
 
