@@ -33,10 +33,10 @@ Here is the BOM:
 
 | Reference | Qty | Value | DNP | Exclude from BOM | Exclude from Board | Footprint | Datasheet |
 | :--- | :---: | ---: | :--- | :---: | ---: | :---: | ---: |
-| RV1 | 1 | R_Potentiometer ||| Dato B | Dato A | Dato B |
-| SW1,SW2,SW3 | 3 | SW_Push ||| Dato D | Dato A | Dato B |
-| U1 | 1 | ESP32-C3-DevKitM-1 ||| Dato D | Dato A | Dato B |
-| U2 | 1 | CR2013-MI2120 ||| Dato B | Dato A | Dato B |
+| RV1 | 1 | R_Potentiometer |||| Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Horizontal | https://media.digikey.com/pdf/Data%20Sheets/Alps%20Alphine/Alps%20RK09%20Potentiometer.pdf |
+| SW1,SW2,SW3 | 3 | SW_Push |||| Button_Switch_THT:SW_PUSH_6mm_H4.3mm | https://www.hdk.co.jp/pdf/eng/e291702.pdf |
+| U1 | 1 | ESP32-C3-DevKitM-1 |||| RF_Module:ESP32-C3-DevKitM-1 | https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html |
+| U2 | 1 | CR2013-MI2120 |||| Display:CR2013-MI2120 | 	http://pan.baidu.com/s/11Y990 |
 
 </p>
 
